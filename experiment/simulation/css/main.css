@@ -267,6 +267,7 @@ a:link{
     border: 0px;
     border-radius: 5px;
 }
+<<<<<<< HEAD
 .container {
     width: 100%;
     text-align: center;
@@ -288,3 +289,5 @@ a:link{
     height: 100%;
     object-fit: contain;
   }
+=======
+>>>>>>> bfd56d4d12a0ac116d27e883b3c9bf6bbdb1d274
