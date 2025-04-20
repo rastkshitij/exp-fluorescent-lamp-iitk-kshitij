@@ -142,9 +142,6 @@ function valueOfFactor2(){
     document.getElementById("steps").innerHTML="Instructions : Note the Result"
     document.getElementById("result").innerHTML="Wattmeter Reading : 12.5 Watts"
 }
-<<<<<<< HEAD
 
 
 
-=======
->>>>>>> bfd56d4d12a0ac116d27e883b3c9bf6bbdb1d274
