@@ -1,9 +1,8 @@
 ### Link for references 
 
-
-[INDIAN STANDARD 
+1.[INDIAN STANDARD 
 SPECIFICATION FOR 
 TUBULAR FLUORESCENT LAMPS FOR 
 GENERAL LIGHTING SERVICE ](refrerence.pdf)
 
-[Fluorescent Lamp](https://www.sciencedirect.com/topics/computer-science/fluorescent-lamp)
+2.[Fluorescent Lamp](https://www.sciencedirect.com/topics/computer-science/fluorescent-lamp)
