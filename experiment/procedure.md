@@ -10,6 +10,6 @@
 
 
 
-<center>Circuit diagram  shown in figure 1:<br><br>
+<center>Circuit diagram  shown in figure 1:<br><br></center>.
 <img src="./simulation/images/Screenshot 2025-03-27 111339.png">
-<center>  figure 1
+<center>  figure 1</center>
